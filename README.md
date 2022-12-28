@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username={junsuk981102}&hide={hidecontents}">
+ </div>
+
 <!--
 **junsuk981102/junsuk981102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
